@@ -7,4 +7,11 @@
 	{name:"더블앵무.gif",keywords:["더블앵무"],tags:["앵무"]},
 	{name:"흠.png",keywords:["흠"],tags:["흠"]},
 	{name:"흠회전3.gif",keywords:["회전흠"],tags:["흠"]},
+	{name:"제리감사.gif",keywords:["제리감사"],tags:["제리"]},
+	{name:"1등급.jpg",keywords:["1등급"],tags:["아잇"]},
+	{name:"로치.jpg",keywords:["외않됨?"],tags:["유희왕"]},
+	{name:"무효아님.jpg",keywords:["싸이크론"],tags:["유희왕"]},
+	{name:"자일리통.jpg",keywords:["300원"],tags:["철권"]},
+	{name:"콩콩2.jpg",keywords:["콩콩이"],tags:["롤"]},
 ];
+
