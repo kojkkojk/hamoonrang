@@ -41,7 +41,15 @@ var dcConsData =  [
 	{ name: "흠회전2.gif", keywords: ["회전흠2"], tags: ["흠"] },
 	{ name: "흠회전3.gif", keywords: ["회전흠3"], tags: ["흠"] },
 	{ name: "흠왜곡.gif", keywords: ["왜곡흠"], tags: ["흠"] },
-	{ name: "제리감사.gif", keywords: ["제리감사"], tags: ["제리"] },
+	{ name: "제리감사.gif", keywords: ["제리감사"], tags: ["톰과 제리"] },
+	{ name: "제리딸딸1.gif", keywords: ["제리딸딸1"], tags: ["톰과 제리"] },
+	{ name: "제리딸딸2.gif", keywords: ["제리딸딸2"], tags: ["톰과 제리"] },
+	{ name: "제리안녕.gif", keywords: ["제리안녕"], tags: ["톰과 제리"] },
+	{ name: "제리헐크.gif", keywords: ["제리헐크"], tags: ["톰과 제리"] },
+	{ name: "톰감탄.gif", keywords: ["톰감탄"], tags: ["톰과 제리"] },
+	{ name: "톰감사.gif", keywords: ["톰감사"], tags: ["톰과 제리"] },
+	{ name: "톰안도.gif", keywords: ["톰안도"], tags: ["톰과 제리"] },
+	{ name: "톰포옹.gif", keywords: ["톰포옹"], tags: ["톰과 제리"] },
 	{ name: "1등급.jpg", keywords: ["1등급"], tags: ["아잇"] },
 	{ name: "로치.jpg", keywords: ["외않됨?"], tags: ["유희왕"] },
 	{ name: "무효아님.jpg", keywords: ["싸이크론"], tags: ["유희왕"] },
@@ -51,6 +59,7 @@ var dcConsData =  [
 	{ name: "꿀벌2.jpg", keywords: ["꿀벌2"], tags: ["야꿀벌"] },
 	{ name: "꿀벌3.jpg", keywords: ["꿀벌3"], tags: ["야꿀벌"] },
 	{ name: "좋은말축하해.gif", keywords: ["축하해"], tags: ["좋은말"] },
+	{ name: "짱이야.gif", keywords: ["짱이야"], tags: ["좋은말"] },
 ];
 
 
