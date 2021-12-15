@@ -7,7 +7,7 @@
 	{ "name": "개구리화남.png", "keywords": ["페페분노"], "tags": ["페페"] },
 	{ "name": "페페교수.png", "keywords": ["페페자살"], "tags": ["페페"] },
 	{ "name": "페페덜덜.gif", "keywords": ["페페덜덜"], "tags": ["페페"] },
-	{ "name": "페페뺴액.png", "keywords": ["페페빼액"], "tags": ["페페"] },
+	{ "name": "페페빼액.png", "keywords": ["페페빼액"], "tags": ["페페"] },
 	{ "name": "혼란앵무.gif", "keywords": ["혼란앵무"], "tags": ["앵무"] },
 	{ "name": "더블앵무.gif", "keywords": ["더블앵무"], "tags": ["앵무"] },
 	{ "name": "스핀앵무.gif", "keywords": ["스핀앵무"], "tags": ["앵무"] },
