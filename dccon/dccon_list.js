@@ -1,5 +1,6 @@
 ﻿dcConsData = [
-   { "name": "화랑몰루.jpg", "keywords": ["화랑몰루"], "tags": ["몰?루"] },
+   { "name": "화랑몰루.jpg", "keywords": ["화랑몰루"], "tags": ["철권"] },
+	{ "name": "자일리통.jpg", "keywords": ["300원"], "tags": ["철권"] },
 	{ "name": "개구리갑분싸.gif", "keywords": ["페페실망"], "tags": ["페페"] },
 	{ "name": "개구리빵야1.png", "keywords": ["페페권총"], "tags": ["페페"] },
 	{ "name": "개구리빵야2.png", "keywords": ["페페권총2"], "tags": ["페페"] },
@@ -20,15 +21,15 @@
 	{ "name": "톰감사.gif", "keywords": ["톰감사"], "tags": ["톰과 제리"] },
 	{ "name": "톰안도.gif", "keywords": ["톰안도"], "tags": ["톰과 제리"] },
 	{ "name": "톰포옹.gif", "keywords": ["톰포옹"], "tags": ["톰과 제리"] },
-	{ "name": "1등급.jpg", "keywords": ["1등급"], "tags": ["아잇"] },
 	{ "name": "로치.jpg", "keywords": ["외않됨?"], "tags": ["유희왕"] },
 	{ "name": "무효아님.jpg", "keywords": ["싸이크론"], "tags": ["유희왕"] },
-	{ "name": "자일리통.jpg", "keywords": ["300원"], "tags": ["철권"] },
 	{ "name": "콩콩2.jpg", "keywords": ["콩콩이"], "tags": ["롤"] },
 	{ "name": "꿀벌1.png", "keywords": ["꿀벌1"], "tags": ["야꿀벌"] },
 	{ "name": "꿀벌2.png", "keywords": ["꿀벌2"], "tags": ["야꿀벌"] },
 	{ "name": "꿀벌3.png", "keywords": ["꿀벌3"], "tags": ["야꿀벌"] },
 	{ "name": "좋은말축하해.gif", "keywords": ["축하해"], "tags": ["좋은말"] },
-	{ "name": "짱이야.gif", "keywords": ["짱이야"], "tags": ["좋은말"] }
+	{ "name": "짱이야.gif", "keywords": ["짱이야"], "tags": ["좋은말"] },
+	{ "name": "1등급.jpg", "keywords": ["1등급"], "tags": ["기타"] },
+	{ "name": "따꺼.gif", "keywords": ["따꺼"], "tags": ["기타"] }
 ];
 
