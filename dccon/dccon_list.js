@@ -1,5 +1,5 @@
 ﻿dcConsData = [
-   { "name": "화랑몰루.jpg", "keywords": ["화랑몰루"], "tags": ["철권"] },
+   	{ "name": "화랑몰루.jpg", "keywords": ["화랑몰루"], "tags": ["철권"] },
 	{ "name": "자일리통.jpg", "keywords": ["300원"], "tags": ["철권"] },
 	{ "name": "개구리갑분싸.gif", "keywords": ["페페실망"], "tags": ["페페"] },
 	{ "name": "개구리빵야1.png", "keywords": ["페페권총"], "tags": ["페페"] },
@@ -36,6 +36,7 @@
 	{ "name": "짱이야.gif", "keywords": ["짱이야"], "tags": ["좋은말"] },
 	{ "name": "1등급.jpg", "keywords": ["1등급"], "tags": ["기타"] },
 	{ "name": "따꺼.gif", "keywords": ["따꺼"], "tags": ["기타"] },
-	{ "name": "황근출.jpg", "keywords": ["아쎼이"], "tags": ["기타"] }
+	{ "name": "황근출.jpg", "keywords": ["아쎼이"], "tags": ["기타"] },	 
+	{ "name": "볼트공중.png", "keywords": ["공중제비"], "tags": ["기타"] }
 ];
 
