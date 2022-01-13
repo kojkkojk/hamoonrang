@@ -24,7 +24,7 @@
 	{ "name": "제리안녕.gif", "keywords": ["제리안녕"], "tags": ["톰과 제리"] },
 	{ "name": "제리헐크.gif", "keywords": ["제리헐크"], "tags": ["톰과 제리"] },
 	{ "name": "제리폭소.gif", "keywords": ["제리폭소"], "tags": ["톰과 제리"] },
-	{ "name": "톰감탄.gif", "keywords": ["톰감탄"], "tags": ["톰과 제리"] },
+	{ "name": "톰감탄.gif", "keywords": ["톰폭소"], "tags": ["톰과 제리"] },
 	{ "name": "톰감사.gif", "keywords": ["톰감사"], "tags": ["톰과 제리"] },
 	{ "name": "톰안도.gif", "keywords": ["톰안도"], "tags": ["톰과 제리"] },
 	{ "name": "톰포옹.gif", "keywords": ["톰포옹"], "tags": ["톰과 제리"] },
