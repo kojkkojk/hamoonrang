@@ -5,13 +5,43 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
     <title>Hamoonrang's Dccon List</title>
 </head>
 
 <body>
-    <ul>
-        <li><a href="https://plogprojects.web.app/#/dccon">디시콘 리스트</a></li>
-        <li><a href="https://sbpromotions-75561.web.app/">스노우볼 커뮤니티</a></li>
-    </ul>
+    <section>
+        <div class="circle"></div>
+        <header>
+            <a href="#"><img src="img/lol.png" alt="logo" class="logo" /></a>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Menu</a></li>
+                <li><a href="https://plogprojects.web.app/#/dccon">디시콘 리스트</a></li>
+                <li><a href="https://sbpromotions-75561.web.app/">스노우볼 커뮤니티</a></li>
+            </ul>
+        </header>
+        <div class="content">
+            <div class="textBox">
+                <h2>The Rogue Assassin<br/><span>Akali</span></h2>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse quis iusto recusandae corporis enim tempore facere quo harum, adipisci aut ipsum, inventore quibusdam laboriosam, minus est eveniet tempora! Excepturi repudiandae non commodi consequatur perspiciatis laudantium, unde impedit reiciendis quos accusamus vel veniam esse est illo at minus minima ab quis!</p>
+                <a href="#">Learn More</a>
+            </div>
+            <div class="imgBox">
+                <img src="img/akali.png" alt="Jinx" class="champs">
+            </div>
+        </div>
+        <ul class="thumb">
+            <li><img src="img/assassin.png" alt="lol" onclick="imgSlider('img/akali.png','The Rogue Assassin','Akali'); changeColor('#71ff5e')"></li>
+            <li><img src="img/mage.png" alt="lol" onclick="imgSlider('img/lux.png','The Lady of Luminosity','Lux'); changeColor('#ffa552')"></li>
+            <li><img src="img/mask.png" alt="lol" onclick="imgSlider('img/jinx.png','The Loose Cannon','Jinx'); changeColor('#fa529b')"></li>
+        </ul>
+        <ul class="sci">
+            <li><a href="#"><img src="img/twitter.png" alt="" ></a></li>
+            <li><a href="#"><img src="img/facebook.png" alt="" ></a></li>
+            <li><a href="#"><img src="img/instagram.png" alt="" ></a></li>
+        </ul>
+    </section>
+    <script src="script.js"></script>
 </body>
 </html>
