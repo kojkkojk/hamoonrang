@@ -143,3 +143,5 @@
 	{ "name": "볼트근육.png", "keywords": ["볼트근육"], "tags": ["볼트보이콘"] },
 	{ "name": "볼트자본.png", "keywords": ["볼트자본"], "tags": ["볼트보이콘"] }
 ];
+
+dcconimg_urls = "https://kojkkojk.github.io/hamoonrang/dccon/images/"
