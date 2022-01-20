@@ -15,6 +15,9 @@
 	{ "name": "제드하하.png", "keywords": ["제드하하"], "tags": ["롤"] },
 	{ "name": "티모따봉.png", "keywords": ["티모따봉"], "tags": ["롤"] },
 	{ "name": "직스따봉.png", "keywords": ["직스따봉"], "tags": ["롤"] },
+	{ "name": "꿀벌1.png", "keywords": ["꿀벌1"], "tags": ["롤"] },
+	{ "name": "꿀벌2.png", "keywords": ["꿀벌2"], "tags": ["롤"] },
+	{ "name": "꿀벌3.png", "keywords": ["꿀벌3"], "tags": ["롤"] },
 	{ "name": "흠.png", "keywords": ["흠"], "tags": ["흠"] },
 	{ "name": "흠발퀄.png", "keywords": ["발퀄흠"], "tags": ["흠"] },
 	{ "name": "흠회전1.gif", "keywords": ["회전흠1"], "tags": ["흠"] },
@@ -33,6 +36,7 @@
 	{ "name": "톰포옹.gif", "keywords": ["톰포옹"], "tags": ["톰과 제리"] },
 	{ "name": "톰박수.gif", "keywords": ["톰박수"], "tags": ["톰과 제리"] },
 	{ "name": "톰반대.gif", "keywords": ["톰반대"], "tags": ["톰과 제리"] },
+	{ "name": "겁쟁이쉼터.png", "keywords": ["겁쟁이쉼터"], "tags": ["유희왕"] },
 	{ "name": "로치.jpg", "keywords": ["외않됨?"], "tags": ["유희왕"] },
 	{ "name": "푸백소환.png", "keywords": ["푸백소환"], "tags": ["유희왕"] },
 	{ "name": "상식인.png", "keywords": ["상식인"], "tags": ["유희왕"] },
@@ -52,4 +56,3 @@
 	{ "name": "황근출.jpg", "keywords": ["아쎼이"], "tags": ["기타"] },	 
 	{ "name": "볼트공중.png", "keywords": ["공중제비"], "tags": ["기타"] }
 ];
-
