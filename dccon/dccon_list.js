@@ -97,7 +97,6 @@
 	{ "name": "타이핑.gif", "keywords": ["타이핑"], "tags": ["기타"] },
 	{ "name": "프로그래밍.gif", "keywords": ["프로그래밍"], "tags": ["기타"] },
 	{ "name": "시공조아.png", "keywords": ["시공조아"], "tags": ["기타"] },
-	{ "name": "아쎼이.jpg", "keywords": ["아쎼이"], "tags": ["기타"] },
 	{ "name": "야스각1.png", "keywords": ["야스각1"], "tags": ["기타"] },
 	{ "name": "야스각2.png", "keywords": ["야스각2"], "tags": ["기타"] },
 	{ "name": "야스야스.png", "keywords": ["야스야스"], "tags": ["기타"] },
