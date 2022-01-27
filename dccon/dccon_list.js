@@ -112,7 +112,7 @@
 	{ "name": "리듬스탈.gif", "keywords": ["리듬스탈"], "tags": ["기타"] },
 	{ "name": "타이핑.gif", "keywords": ["타이핑"], "tags": ["기타"] },
 	{ "name": "프로그래밍.gif", "keywords": ["프로그래밍"], "tags": ["기타"] },
-	{ "name": "지식의보고1.png", "keywords": ["지식의보고1"], "tags": ["기타"] },
+	{ "name": "지식의보고.png", "keywords": ["지식의보고1"], "tags": ["기타"] },
 	{ "name": "지식의보고2.png", "keywords": ["지식의보고2"], "tags": ["기타"] },
 	{ "name": "시공조아.png", "keywords": ["시공조아"], "tags": ["기타"] },
 	{ "name": "야스각1.png", "keywords": ["야스각1"], "tags": ["기타"] },
