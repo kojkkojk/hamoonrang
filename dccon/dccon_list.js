@@ -1,4 +1,4 @@
-﻿dcConsData =  [
+﻿dcConsData = [
 	{ "name": "페페갑분싸.gif", "keywords": ["페페실망"], "tags": ["페페"] },
 	{ "name": "페페빵야1.png", "keywords": ["페페빵야1"], "tags": ["페페"] },
 	{ "name": "페페빵야2.png", "keywords": ["페페빵야2"], "tags": ["페페"] },
@@ -9,6 +9,9 @@
 	{ "name": "페페노.png", "keywords": ["페페노"], "tags": ["페페"] },
 	{ "name": "페페vr.png", "keywords": ["페페vr"], "tags": ["페페"] },
 	{ "name": "페페덜덜.gif", "keywords": ["페페덜덜"], "tags": ["페페"] },
+	{ "name": "페페아찔.gif", "keywords": ["페페아찔"], "tags": ["페페"] },
+	{ "name": "페페성탄절.gif", "keywords": ["페페성탄절"], "tags": ["페페"] },
+	{ "name": "페페주먹.gif", "keywords": ["페페주먹"], "tags": ["페페"] },
 	{ "name": "페페빼액.png", "keywords": ["페페빼액"], "tags": ["페페"] },
 	{ "name": "페페무슨일.jpg", "keywords": ["페페무슨일"], "tags": ["페페"] },
 	{ "name": "앵그리페페.png", "keywords": ["페페앵그리"], "tags": ["페페"] },
