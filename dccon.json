@@ -1,5 +1,5 @@
 {
-   "dcConsData": [
+   "dcConsData":  [
       { "name": "페페갑분싸.gif", "keywords": ["페페실망"], "tags": ["페페"] },
       { "name": "페페빵야1.png", "keywords": ["페페빵야1"], "tags": ["페페"] },
       { "name": "페페빵야2.png", "keywords": ["페페빵야2"], "tags": ["페페"] },
@@ -78,6 +78,8 @@
       { "name": "외않됨.png", "keywords": ["외않됨?"], "tags": ["유희왕"] },
       { "name": "뉴비지킴이.png", "keywords": ["뉴비지킴이"], "tags": ["유희왕"] },
       { "name": "무효아님.png", "keywords": ["싸이크론"], "tags": ["유희왕"] },
+      { "name": "숭고한힘.png", "keywords": ["숭고한힘"], "tags": ["유희왕"] },
+      { "name": "숭고한통.png", "keywords": ["숭고한통"], "tags": ["유희왕"] },
       { "name": "증g발동.png", "keywords": ["증g발동"], "tags": ["유희왕"] },
       { "name": "말명자발동.png", "keywords": ["말명자발동"], "tags": ["유희왕"] },
       { "name": "카이바소환.png", "keywords": ["카이바소환"], "tags": ["유희왕"] },
