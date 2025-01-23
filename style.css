@@ -1,0 +1,59 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 150px;
+  background-color: #333;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+header #displayText {
+  margin: 0;
+  font-size: 18px;
+  height: 40px;
+}
+header #copied {
+  height: 40px;
+}
+.content {
+  margin-top: 180px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(10, 100px);
+  gap: 10px;
+}
+.image-grid img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+@media (max-width: 800px) {
+  .image-grid {
+    grid-template-columns: repeat(5, 80px);
+    gap: 8px;
+  }
+  .image-grid img {
+    width: 80px;
+    height: 80px;
+  }
+}
